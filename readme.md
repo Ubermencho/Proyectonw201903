@@ -1,6 +1,5 @@
 # NO SE COMO COMENTAR
-
-Version 2018
+oscar ayuda
 
 ## Requisitos
 
