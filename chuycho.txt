@@ -1,0 +1,3 @@
+alumno: luis chuy cho
+cuenta: 0801199807102
+correo: luischuy123@hotmail.com
