@@ -1,6 +1,5 @@
-# Simple PHP MVC
-
-Version 2018
+# NO SE COMO COMENTAR
+oscar ayuda
 
 ## Requisitos
 
